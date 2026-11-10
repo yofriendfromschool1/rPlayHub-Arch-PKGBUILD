@@ -1,5 +1,15 @@
 # rPlayHub
 
+- Setup
+```bash
+git clone -b pkgbuild https://github.com/yofriendfromschool1/rPlayHub-Arch-PKGBUILD/
+cd rPlayHub-Arch-PKGBUILD
+makepkg -si
+```
+
+# NOTE
+- If you're having trouble just use install the missing dependencies with pacman or aur (yay or paru) 
+
 [![Latest release](https://img.shields.io/github/v/release/rPlayAI/rPlayHub?label=download&color=2ea44f)](https://github.com/rPlayAI/rPlayHub/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B%20%7C%20Linux-lightgrey)](#platforms)
 [![iOS](https://img.shields.io/badge/iOS-27%2B-blue)](#requirements)
