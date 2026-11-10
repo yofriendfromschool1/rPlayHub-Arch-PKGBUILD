@@ -1,4 +1,4 @@
-[The Reason You're here](https://github.com/yofriendfromschool1/rPlayHub-Arch-PKGBUILD/tree/pkgbuild)
+[The Reason You're here for arch users btw and its descendants](https://github.com/yofriendfromschool1/rPlayHub-Arch-PKGBUILD/tree/pkgbuild)
 
 # rPlayHub
 
