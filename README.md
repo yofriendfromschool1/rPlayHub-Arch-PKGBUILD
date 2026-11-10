@@ -1,3 +1,5 @@
+[The Reason You're here](https://github.com/yofriendfromschool1/rPlayHub-Arch-PKGBUILD/tree/pkgbuild)
+
 # rPlayHub
 
 [![Latest release](https://img.shields.io/github/v/release/rPlayAI/rPlayHub?label=download&color=2ea44f)](https://github.com/rPlayAI/rPlayHub/releases/latest)
