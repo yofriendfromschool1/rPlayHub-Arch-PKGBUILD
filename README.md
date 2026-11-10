@@ -2,6 +2,7 @@
 
 - Setup
 ```bash
+yay -S debtap
 git clone -b pkgbuild https://github.com/yofriendfromschool1/rPlayHub-Arch-PKGBUILD/
 cd rPlayHub-Arch-PKGBUILD
 makepkg -si
